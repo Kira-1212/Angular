@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "Zoro's Swords",
+        "productCode": "GDN-0011",
+        "releaseDate": "March 19, 2019",
+        "description": "Three Wazamono grade swords of Roronoa Zoro.",
+        "price": 49.95,
+        "starRating": 4.2,
+        "imageUrl": "./assets/images/swords.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "Luffy's Poster",
+        "productCode": "GDN-0023",
+        "releaseDate": "March 18, 2019",
+        "description": "Dead/Alive wanted poster of Monkey D Luffy with bounty.",
+        "price": 4.99,
+        "starRating": 4.5,
+        "imageUrl": "./assets/images/wantedposter.png"
+    },
+    {
+      "productId": 5,
+      "productName": "Chopper's Hat",
+      "productCode": "TBX-0048",
+      "releaseDate": "May 21, 2019",
+      "description": "Replica of Tony Tony Chopper's Hat",
+      "price": 13.55,
+      "starRating": 4.8,
+      "imageUrl": "./assets/images/hat.jpg"
+    },
+    {
+      "productId": 8,
+      "productName": "Slingshot",
+      "productCode": "TBX-0022",
+      "releaseDate": "May 15, 2019",
+      "description": "Post timeskip Slingshot weapon of Ussop",
+      "price": 11.55,
+      "starRating": 3.7,
+      "imageUrl": "./assets/images/slingshot.jpg"
+    },
+    {
+      "productId": 10,
+      "productName": "Clima-Tact",
+      "productCode": "GMG-0042",
+      "releaseDate": "October 15, 2018",
+      "description": "Nami's Clima Tact made by Ussop",
+      "price": 35.95,
+      "starRating": 4.6,
+      "imageUrl": "./assets/images/tact.jpg"
+    }
+  ]
