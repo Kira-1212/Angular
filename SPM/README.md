@@ -1,6 +1,7 @@
 # SPM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
+Making use of all the basic concepts of Angular.
 
 ## Development server
 
